@@ -39,7 +39,7 @@
 		"postcss-import": "^15.1.0",
 		"postcss-nesting": "^11.2.2",
 		"postcss-selector-matches": "^4.0.0",
-		"posthog-js": "^1.57.3",
+		"posthog-js": "^1.265.0",
 		"qrcode.react": "^4.0.1",
 		"react": "18.2.0",
 		"react-countup": "^6.4.2",
